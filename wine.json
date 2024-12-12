@@ -1,0 +1,107 @@
+[
+  {
+    "id": 1,
+    "name": "Chardonnay",
+    "price": 12.99,
+    "region": "California",
+    "year": 2019
+  },
+  {
+    "id": 2,
+    "name": "Merlot",
+    "price": 14.99,
+    "region": "France",
+    "year": 2018
+  },
+  {
+    "id": 3,
+    "name": "Cabernet Sauvignon",
+    "price": 18.99,
+    "region": "Australia",
+    "year": 2020
+  },
+  {
+    "id": 4,
+    "name": "Pinot Noir",
+    "price": 22.99,
+    "region": "Oregon",
+    "year": 2017
+  },
+  {
+    "id": 5,
+    "name": "Sauvignon Blanc",
+    "price": 11.99,
+    "region": "New Zealand",
+    "year": 2021
+  },
+  {
+    "id": 6,
+    "name": "Zinfandel",
+    "price": 15.99,
+    "region": "California",
+    "year": 2018
+  },
+  {
+    "id": 7,
+    "name": "Syrah",
+    "price": 20.99,
+    "region": "Washington",
+    "year": 2019
+  },
+  {
+    "id": 8,
+    "name": "Malbec",
+    "price": 19.99,
+    "region": "Argentina",
+    "year": 2020
+  },
+  {
+    "id": 9,
+    "name": "Riesling",
+    "price": 13.99,
+    "region": "Germany",
+    "year": 2019
+  },
+  {
+    "id": 10,
+    "name": "Grenache",
+    "price": 21.99,
+    "region": "Spain",
+    "year": 2018
+  },
+  {
+    "id": 11,
+    "name": "Tempranillo",
+    "price": 16.99,
+    "region": "Spain",
+    "year": 2021
+  },
+  {
+    "id": 12,
+    "name": "Moscato",
+    "price": 9.99,
+    "region": "Italy",
+    "year": 2022
+  },
+  {
+    "id": 13,
+    "name": "Prosecco",
+    "price": 17.99,
+    "region": "Italy",
+    "year": 2021
+  },
+  {
+    "id": 14,
+    "name": "Chianti",
+    "price": 18.99,
+    "region": "Italy",
+    "year": 2019
+  },
+  {
+    "id": 15,
+    "name": "Rosé",
+    "price": 10.99,
+    "region": "France",
+    "year": 2020
+  }
+]
